@@ -1,0 +1,17 @@
+.h1 {
+  color: rgb(99, 98, 98);
+}
+P {
+  font-size: 22px;
+  font-weight: bolder;
+  padding-bottom: 50px;
+  font-family: sans-serif;
+  color: blueviolet;
+}
+P:hover {
+  color: black;
+  font-size: 25px;
+  background-color: gray;
+  display: inline;
+  padding-bottom: 30px;
+}
